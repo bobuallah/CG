@@ -20,7 +20,7 @@
 ---
 
 ## 🛠️ **How to Use**
-1.  **Run the Cell Below:** Click the "Play" button on the **OmniStream Engine** code block.
+1.  **click on the button "Open In Colab" above and run the first Cell:** Click the "Play" button on the **OmniStream Engine** code block.
 2.  **Wait for Initialization:** The system will install dependencies (~4 mins).
 3.  **Connect:** Click the `trycloudflare.com` link that appears in the logs.
 4.  **Play:**
@@ -33,7 +33,7 @@
 
 ## ⚠️ **System Requirements**
 * **Client:** Android Phone with **Steam Link App** or PC/Browser.
-* **Input:** Gamesir X5, Xbox, or PS5 Controller (via Bluetooth/USB).
+* **Input:** Xbox, PS or 3rd party Controllers (via Bluetooth/USB).
 * **Account:** A Google Account with Drive access (for save backups).
 
-> *Built by Mostafa & Gemini | Version 2.0 (Elite Edition)*
+> *Built by @Moustuofa | Version 3.0 (Elite Edition)*
